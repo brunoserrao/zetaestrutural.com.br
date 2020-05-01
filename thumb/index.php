@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$url = $_SERVER['REQUEST_URI'];
 	$data = explode('thumb',$url);
 	$data = explode('/', $data[1]);
