@@ -12,8 +12,5 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
-/readme.html
-/license.txt
-thumb/cache/*
-thumb/phpThumb/cache/*
-_FRONTEND/
+/thumb/cache/*
+/thumb/phpThumb/cache/*
