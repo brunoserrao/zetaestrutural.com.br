@@ -433,9 +433,13 @@ h1.section-titulo{
 	}
 
 	#contato-content{
-		width: 80%;
+		width: 100%;
 		margin: auto;
 		margin-top: 30px;
+	}
+
+	#contato-content ul{
+		margin: auto;
 	}
 
 	#contato-content .textos{
